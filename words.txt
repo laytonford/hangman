@@ -1,0 +1,11 @@
+pizza
+apple
+car
+dog
+orange
+banana
+coconut
+pineapple
+grape
+lime
+lemon
